@@ -7,5 +7,12 @@
             "email": "skuwar@olivemedia.co"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+      "laravel": {
+          "providers": [
+            "Saurav\\Calculator\\CalculatorServiceProvider"
+          ]
+      }
+  },
 }
