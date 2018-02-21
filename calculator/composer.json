@@ -1,0 +1,11 @@
+{
+    "name": "saurav/calculator",
+    "description": "Simple calcuulation",
+    "authors": [
+        {
+            "name": "saurav kuwar",
+            "email": "skuwar@olivemedia.co"
+        }
+    ],
+    "require": {}
+}
