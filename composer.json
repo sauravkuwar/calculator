@@ -8,6 +8,11 @@
         }
     ],
     "require": {},
+    "autoload": {
+        "psr-4": {
+            "Saurav\\Calculator\\": "src/"
+        }
+    },
     "extra": {
       "laravel": {
           "providers": [
